@@ -1,0 +1,15 @@
+{
+    "uber": {
+	"base_url": "https://staging4.uber.magfest.org/uber/jsonrpc",
+	"token": "changeme"
+    },
+    "depts": {
+	"Arcade": {
+	    "escalation": [
+		{"shifts": ["Test"]},
+		{"shifts": ["Arcade Manager"]},
+		{"people": ["Test Dev"], "numbers": ["3015551234"]}
+	    ]
+	}
+    }
+}
